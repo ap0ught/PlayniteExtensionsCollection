@@ -12,7 +12,7 @@ Metadata provider for VNDB.
 5. Click Install
 
 ### Manual Installation
-1. Download the latest release from the [Playnite Add-ons Database](None)
+1. Download the latest release from the repository
 2. Extract the downloaded file
 3. Copy the extension folder to your Playnite extensions directory
 4. Restart Playnite
