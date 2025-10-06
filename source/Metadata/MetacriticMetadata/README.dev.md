@@ -19,7 +19,7 @@ cd PlayniteExtensionsCollection
 
 2. Open the solution file in Visual Studio or navigate to this extension's directory:
 ```bash
-cd source/MetacriticMetadata/MetacriticMetadata
+cd source/Metadata/MetacriticMetadata/MetacriticMetadata
 ```
 
 3. Restore NuGet packages:
