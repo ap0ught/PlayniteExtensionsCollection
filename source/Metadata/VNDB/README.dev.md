@@ -19,7 +19,7 @@ cd PlayniteExtensionsCollection
 
 2. Open the solution file in Visual Studio or navigate to this extension's directory:
 ```bash
-cd source/VNDB/VNDB
+cd source/Metadata/VNDB/VNDB
 ```
 
 3. Restore NuGet packages:
