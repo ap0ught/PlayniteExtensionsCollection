@@ -19,7 +19,7 @@ cd PlayniteExtensionsCollection
 
 2. Open the solution file in Visual Studio or navigate to this extension's directory:
 ```bash
-cd source/WebExplorer/WebExplorer
+cd source/Generic/WebExplorer/WebExplorer
 ```
 
 3. Restore NuGet packages:
